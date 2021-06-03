@@ -1,0 +1,16 @@
+setuptools
+packaging
+wheel
+pyserial
+h5py
+Flask
+pyyaml
+attrs
+docutils
+numpy
+scipy
+scipy
+matplotlib
+datetime
+pyrebase5
+guizero
