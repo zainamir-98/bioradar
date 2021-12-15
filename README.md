@@ -1,5 +1,7 @@
 # BioRadar: Contact-Free Vital Signs Monitoring using the XM112 Pulsed-Coherent Millimetre-Wave Radar Module
 
+Link to statistical anlaysis of heart rate measurements in Python: https://colab.research.google.com/drive/1NaPGNI30N7ld4ZmqZBicBSW60nfZAZyp?usp=sharing
+
 BioRadar is an IoMT device which measures respiration rate (RR), heart rate (HR) and heart rate variability (HRV) without any contact with the body. It uses Acconeer's XM112 mmWave radar module to precisely capture the movements of the chest, which is composed of 
 * a large low-frequency respiratory signal from the inhalation and exhalation of the lungs, and 
 * a tiny high-frequency heartbeat signal from the contraction and relaxation of the heart.
